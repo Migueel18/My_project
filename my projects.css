@@ -1,0 +1,19 @@
+body {
+    font-family: Helvetica;
+    text-align: center;
+    color: #FFF;
+    background-color: #333;
+    padding: 0;
+    margin: 0;
+}
+
+body nav h1 a{
+    color: #264eff
+}
+
+body {
+    background: #f2f2f2;
+    background-image: url(images/Wallpaper-mundo-programado.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
